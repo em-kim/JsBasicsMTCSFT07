@@ -1,0 +1,11 @@
+/* $("p").dblclick(function(){
+  alert("The paragraph was double-clicked");
+}); */
+
+$('p').dblclick(function(){
+  alert("hi");
+});
+
+/*.title {
+  color: blue;
+}*/
